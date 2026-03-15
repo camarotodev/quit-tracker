@@ -28,13 +28,6 @@ O usuário escolhe um vício (como fumar, álcool ou açúcar) e o sistema inici
 
 ---
 
-## 📦 Estrutura do projeto
-quit-tracker
-├ frontend → aplicação Next.js
-└ backend → API Spring Boot
-
----
-
 ## ✨ Funcionalidades
 
 - Adicionar vício
